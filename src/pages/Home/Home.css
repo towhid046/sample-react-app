@@ -1,0 +1,28 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.home{
+    max-width: 1200px;
+    margin-inline: auto;
+    padding: 0 20px;
+}
+ul,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.d_flex{
+    display: flex;
+}
+.ai-c{
+    align-items: center;
+}
+.jc-s{
+    justify-content: space-between;
+} */
+.text_center{
+    text-align: center;
+}
